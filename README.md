@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulbraj&label=Profile%20views&color=0e75b6&style=flat" alt="atulbraj" /> </p>
 
-- 🌱 I’m currently learning **Machine learning, LLMs, Python, Data Structures, Blockchain, Web Development and many more**
+- 🌱 I’m currently learning **Machine learning, LLMs, Web Development, Python, Data Structures, Blockchain and many more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/atulbraj?tab=repositories](https://github.com/atulbraj?tab=repositories)
 
