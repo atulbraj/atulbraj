@@ -1,8 +1,8 @@
-### Hi there 👋
+<h2> Hi there 👋 </h2>
 
 ---
 
-<h1 align="center">Hi 👋, I'm Atul B Raj</h1>
+<h1 align="center">I'm Atul B Raj</h1>
 <h3 align="center">SDE Intern (iXp) @SAP Labs India | Customer Innovation Services (CIS) Deptt | Extending Joule Capabilities | B.Tech @IIIT Allahabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulbraj&label=Profile%20views&color=0e75b6&style=flat" alt="atulbraj" /> </p>
