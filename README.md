@@ -16,7 +16,7 @@ I build software systems end-to-end, with a strong interest in how real-world pr
 • Experience working on backend-heavy, AI-driven enterprise systems  
 • Actively expanding my understanding of system design, web applications, and DevOps practices  
 • Used to working with defined timelines, taking ownership of tasks, and following through on commitments  
-• Comfortable committing consistent time to long-running projects and maintaining clear, asynchronous communication  
+• Apart from my office work comfortable committing consistent time to long-running projects and maintaining clear, asynchronous communication.
 
 ---
 
